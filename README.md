@@ -7,9 +7,9 @@
 <p>Here you'll find some projects, things that i've coded to understand more about styling, or some specific library </p>
 
 <div align="center">
-  <a href="https://github.com/Ceagah">
-	  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ceagah&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-	  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceagah&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/Ceagah2">
+	  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ceagah2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+	  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceagah2&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
 <br />
@@ -40,7 +40,7 @@
 <h3>Get in touch !</h3>
 <p>
   You are here ! <br/>
-  <a href="https://github.com/ceagah" target="_blank">
+  <a href="https://github.com/ceagah2" target="_blank">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
   </a>
    
@@ -50,7 +50,7 @@
   <a href="https://www.instagram.com/ceagah.dev/" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://twitch.tv/ceagahdev" target"_blank">
+  <a href="https://twitch.tv/forrest_carlos" target"_blank">
   <img alt="Twitch" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
   </a>
 </p>
