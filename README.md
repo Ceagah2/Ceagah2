@@ -4,6 +4,7 @@
 
 <p>🔭 I’m currently working on Typescript and Javascript librarys</p>
 <p>👯 Collaborate at <a target="_blank" href="https://opensourcecourses.com.br/">Opensource Courses</a></p>
+<p>👯 Javascript mentor at <a target="_blank" href="https://devjr.netlify.app/">DevJr Br</a></p>
 <p>Here you'll find some projects, things that i've coded to understand more about styling, or some specific library </p>
 
 <div align="center">
