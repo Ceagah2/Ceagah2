@@ -7,14 +7,7 @@
 <p>👯 Javascript mentor at <a target="_blank" href="https://devjr.netlify.app/">DevJr Br</a></p>
 <p>Here you'll find some projects, things that i've coded to understand more about styling, or some specific library </p>
 
-<div align="center">
-  <a href="https://github.com/Ceagah2">
-	  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ceagah2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-	  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceagah2&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
 <br />
-
 
 <h3>These are my work tools, for now [2023]</h3>
 <p>
@@ -55,5 +48,5 @@
   <img alt="Twitch" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
   </a>
 </p>
-	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ceagah2&show_icons=true&locale=en&layout=compact" alt="StatusCeagah" />
-	<img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ceagah2&show_icons=true&line_height=27" alt="status" />
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ceagah2&show_icons=true&locale=en&layout=compact&theme=dracula" alt="StatusCeagah" />
+	<img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ceagah2&show_icons=true&line_height=27&theme=dracula" alt="status" />
