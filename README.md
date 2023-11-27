@@ -2,10 +2,11 @@
 
 ## I'm Carlos Henrique, a Software Engineer with a Passion for Frontend Development
 
-🌟 Currently immersed in TypeScript and various JavaScript libraries.
-🤝 Collaborating with <a target="_blank" href="https://opensourcecourses.com.br/">Opensource Courses</a>.
-💼 CEO at Fantasy Forge, crafting innovative applications.
-🤝 Founder of Social Apps
+🌟 Currently immersed in TypeScript and various JavaScript libraries.  
+🤝 Collaborating with <a target="_blank" href="https://opensourcecourses.com.br/">Opensource Courses</a>.  
+💼 CEO at Fantasy Forge, crafting innovative applications.  
+🤝 Founder of Social Apps  
+
 
 Welcome to my GitHub! Here you'll discover projects where I've explored styling intricacies or delved into specific libraries.
 
