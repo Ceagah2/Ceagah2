@@ -1,12 +1,13 @@
-<h3>Hello People. Welcome to my Github</h4>
-<h4>My name is Carlos Henrique</h4>
-<p><i>I'm a software engineer, focused in Front end </i></p>
+# Hey there! 👋
 
-<p>🔭 I’m currently working with Typescript and Javascript librarys</p>
-<p>👯 Collaborate at <a target="_blank" href="https://opensourcecourses.com.br/">Opensource Courses</a></p>
-<p>👯 Javascript mentor at <a target="_blank" href="https://devjr.netlify.app/">DevJr Br</a></p>
-<p>💻 CEO at Fantasy Forge applications development </p>
-<p>Here you'll find some projects, things that i've coded to understand more about styling, or some specific library </p>
+## I'm Carlos Henrique, a Software Engineer with a Passion for Frontend Development
+
+🌟 Currently immersed in TypeScript and various JavaScript libraries.
+🤝 Collaborating with <a target="_blank" href="https://opensourcecourses.com.br/">Opensource Courses</a>.
+💼 CEO at Fantasy Forge, crafting innovative applications.
+🤝 Founder of Social Apps
+
+Welcome to my GitHub! Here you'll discover projects where I've explored styling intricacies or delved into specific libraries.
 
 <br />
 
