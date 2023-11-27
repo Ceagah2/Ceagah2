@@ -2,7 +2,7 @@
 <h4>My name is Carlos Henrique</h4>
 <p><i>I'm a software engineer, focused in Front end </i></p>
 
-<p>🔭 I’m currently working on Typescript and Javascript librarys</p>
+<p>🔭 I’m currently working with Typescript and Javascript librarys</p>
 <p>👯 Collaborate at <a target="_blank" href="https://opensourcecourses.com.br/">Opensource Courses</a></p>
 <p>👯 Javascript mentor at <a target="_blank" href="https://devjr.netlify.app/">DevJr Br</a></p>
 <p>💻 CEO at Fantasy Forge applications development </p>
