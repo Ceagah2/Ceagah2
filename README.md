@@ -5,7 +5,7 @@
 🌟 Currently immersed in TypeScript and various JavaScript libraries.  
 🤝 Collaborating with <a target="_blank" href="https://opensourcecourses.com.br/">Opensource Courses</a>.  
 💼 CEO at Fantasy Forge, crafting innovative applications.  
-🤝 Founder of Social Apps  
+🤝 Founder of Winote - The ultimate note taking app
 
 
 Welcome to my GitHub! Here you'll discover projects where I've explored styling intricacies or delved into specific libraries.
