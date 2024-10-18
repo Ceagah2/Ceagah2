@@ -17,7 +17,7 @@ Bem-vindo ao meu GitHub! Sou um engenheiro de software apaixonado por desenvolvi
 
 ## 📈 GitHub Stats
  <div align="center" >
-     <img src="https://github-profile-trophy.vercel.app/?username=Ceagagh2&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+     <img src="https://github-profile-trophy.vercel.app/?username=Ceagah2&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
   </div>
 
 
