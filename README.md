@@ -16,9 +16,12 @@ Bem-vindo ao meu GitHub! Sou um engenheiro de software apaixonado por desenvolvi
 
 
 ## 📈 GitHub Stats
- <div align="center" >
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ceagah2&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Most Used Languages" /> <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ceagah2&show_icons=true&line_height=27&theme=dracula" alt="GitHub Stats" /> </p>
+
+ <div align="center">
      <img src="https://github-profile-trophy.vercel.app/?username=Ceagah2&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
   </div>
+  
 
 
 
