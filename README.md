@@ -1,19 +1,3 @@
-# 
-<svg width="100%" height="60" viewBox="0 0 1000 60" xmlns="http://www.w3.org/2000/svg">
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-        font-size="32" font-family="Fira Code, monospace"
-        fill="url(#gradient)">
-    Carlos Henrique — Building beautiful, fast and scalable apps.
-    <animate attributeName="opacity" values="0;1;0" dur="5s" repeatCount="indefinite" />
-  </text>
-  <defs>
-    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#38bdf8; stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#7c3aed; stop-opacity:1" />
-    </linearGradient>
-  </defs>
-</svg>
-
 
 # 👋 Hey! I'm Carlos Henrique
 
