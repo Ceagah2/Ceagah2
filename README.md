@@ -1,21 +1,40 @@
-# 👋 E aí! Eu sou o Carlos Henrique
+# 
+<svg width="100%" height="60" viewBox="0 0 1000 60" xmlns="http://www.w3.org/2000/svg">
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+        font-size="32" font-family="Fira Code, monospace"
+        fill="url(#gradient)">
+    Carlos Henrique — Building beautiful, fast and scalable apps.
+    <animate attributeName="opacity" values="0;1;0" dur="5s" repeatCount="indefinite" />
+  </text>
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#38bdf8; stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#7c3aed; stop-opacity:1" />
+    </linearGradient>
+  </defs>
+</svg>
+
+
+# 👋 Hey! I'm Carlos Henrique
 
 ### Software Engineer • Frontend & Mobile Specialist • Product-driven Developer
 
-Sou um entusiasta de interfaces bem construídas e tecnologias modernas. Ao longo de +4 anos de experiência, atuei construindo produtos digitais escaláveis, rápidos e com foco na experiência do usuário. Hoje, sigo trilhando minha jornada rumo à senioridade, expandindo para áreas como infraestrutura, arquitetura, boas práticas de time e... sim, empreender!
+I'm passionate about building beautiful, fast and user-focused digital experiences. With over 4 years of hands-on experience, I’ve helped launch scalable apps across web and mobile using modern technologies like **React**, **React Native**, **Next.js**, and **Vue**.
+
+Right now, I’m diving deeper into the senior side of software development — beyond the code. I'm exploring infrastructure, automation, architecture, and even entrepreneurship.
 
 ---
 
-### 🧠 Minha abordagem é simples:
+### 🧠 How I think about code:
 
-- **Código é ferramenta, não fim:** foco total em produto, valor e impacto.
-- **UI/UX não são detalhes:** são parte do que me motiva como dev frontend/mobile.
-- **Stack moderna + boas práticas:** mantenho o código limpo, testável e bonito de ler.
-- **Não paro de aprender:** da AWS ao CNPJ, sigo expandindo minha atuação além do código.
+- **Code is a tool, not the goal:** I care about **impact**, **clarity**, and **value**
+- **Design isn’t an afterthought:** it’s part of what fuels my frontend/mobile work
+- **Modern stack meets best practices:** clean, scalable, and beautiful code is the baseline
+- **Learning never stops:** from **AWS** to **opening my own company**, I'm in constant evolution
 
 ---
 
-## 🛠️ Minhas armas favoritas
+## 🛠️ Tools & Tech I love
 
 <div align="center">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
@@ -32,16 +51,16 @@ Sou um entusiasta de interfaces bem construídas e tecnologias modernas. Ao long
 
 ---
 
-## 🔭 Explorando agora
+## 🚀 What I’m focused on now
 
-Atualmente, meus estudos e projetos estão focados em áreas mais estratégicas e avançadas da carreira, como:
+Lately, I’ve been leveling up into areas beyond day-to-day coding:
 
-- 🚀 **AWS Console e serviços gerenciados**
-- 🔁 **CI/CD com GitHub Actions e Vercel Pipelines**
-- 🧱 **Design de arquiteturas escaláveis**
-- 🧩 **Tomada de decisão técnica em times**
-- 📈 **Empreendedorismo, branding e estruturação de produto**
-- 🏗️ **Criando minha própria empresa digital**
+- ☁️ **AWS Console & managed services**
+- 🔁 **CI/CD pipelines using GitHub Actions & Vercel**
+- 🧱 **Building scalable frontend architectures**
+- 👨‍💼 **Tech decision-making in product teams**
+- 🚀 **Business modeling, branding and product strategy**
+- 🏗️ **Laying the foundation for my own digital company**
 
 ---
 
@@ -58,9 +77,9 @@ Atualmente, meus estudos e projetos estão focados em áreas mais estratégicas 
 
 ---
 
-## 🤝 Bora conversar?
+## 🤝 Let’s connect!
 
-Se quiser bater um papo sobre carreira, tecnologia, freela, produto ou até abrir sua própria empresa, tô por aqui. Sempre aberto a boas conexões:
+Open to collaborations, freelance gigs, or just chatting about code, design or business.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/carlosceagah/" target="_blank">
@@ -79,9 +98,9 @@ Se quiser bater um papo sobre carreira, tecnologia, freela, produto ou até abri
 
 ---
 
-### ⚡ Fun fact:
-O codinome "**forrest_carlos**" vem da minha filosofia de correr por aprendizado, propósito e conexão — não por hype.  
-Se é pra correr atrás, que seja de impacto real.
+### ⚡ Codename: **forrest_carlos**
+
+Because I run. Always chasing something greater: purpose, learning, and real impact.
 
 ---
 
